@@ -1,0 +1,9 @@
+Act1_01_Preludio_de_la_Sombra.wav
+Act1_02_El_Silencio_Ritmico.wav
+Act1_03_Raices_Profundas.wav
+Act2_01_Pulso_de_la_Ciudad.wav
+Act2_02_Fuego_en_la_Pista.wav
+Act2_03_El_Grito_del_Sol.wav
+Act3_01_Catedral_de_Arena.wav
+Act3_02_La_Ascension.wav
+Act3_03_Epilogo.wav
